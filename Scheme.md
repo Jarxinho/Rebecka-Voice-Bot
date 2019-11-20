@@ -1,8 +1,8 @@
 
 ## SHOR-TERM
-- [Scenariusze rozmów ( 2 dni) DW](docs/short_term/API_Comparison.md)
-- [Implementacja geolokalizacji dostawcy jedzenia ( 2 dni) MS](docs/short_term/API_Comparison.md)
-- [Zaprojektowanie bazy danych, wybranie technologii, tabele, kolumny, relacje (3dni) JP](docs/short_term/API_Comparison.md)
+1. [Scenariusze rozmów ( 2 dni) DW](docs/short_term/API_Comparison.md)
+2. [Implementacja geolokalizacji dostawcy jedzenia ( 2 dni) MS](docs/short_term/API_Comparison.md)
+3. [Zaprojektowanie bazy danych, wybranie technologii, tabele, kolumny, relacje (3dni) JP](docs/short_term/API_Comparison.md)
 - [Stworzenie dokumentacji projektu ( 3 dni) DW](docs/short_term/API_Comparison.md)
 - [Stworzenie repo w GIT i opublikowanie projektu oraz dokumentacji( 1 dzien) JS](docs/short_term/API_Comparison.md)
 - [Analiza rynku, jakie są dostępne API VoiceBot,najlepsza rozpoznawalność głosu ( 2 dni) JS](docs/short_term/API_Comparison.md)
