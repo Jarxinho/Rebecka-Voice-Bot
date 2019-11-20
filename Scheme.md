@@ -1,3 +1,4 @@
+
 ## SHOR-TERM
 1.Scenariusze rozmów ( 2 dni) DW
 2.Implementacja geolokalizacji dostawcy jedzenia ( 2 dni) MS
