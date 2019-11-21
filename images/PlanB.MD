@@ -7,6 +7,7 @@ To kryterium na dzień dzisiejszy spełniają jedynie dwa rozwiązania: Dialogfl
 Ponadto licencja freemium w przypadku tego projektu będzie wystarczająca. 
 Możliwość licznych integracji z zewnętrznymi aplikacjami/komunikatorami takimi jak: Google Assistant, Messenger, Slack, Twitter jest niezwykle cenna w przypadku realizowanego projektu gdyż w/w aplikacje na dobre zadomowiły się w życie Polaków, łatwiej będzie zachęcić potencjalnych klientów do skorzystania z już wcześniej znanego komunikatora.
 Gdyby realizacja projektu za pomocą Dialogflow okazała się barierą nie do przeskoczenia, alternatywą pozostaje wit.ai, który oferuje wsparcie języka polskiego.*
+
 	Po przeanalizowaniu ryzyka i ścieżki krytycznej wdrożenia Voice Bota jego złożoności i trudności w implementacji.
 Konieczności integracji NLP, NLU, NLG, ERM.
 Potrzebnej infrastruktury do realizacji połączeń, nagrywania i przetwarzania intencji do restauracji.
