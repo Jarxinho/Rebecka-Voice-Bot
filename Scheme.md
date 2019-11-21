@@ -6,7 +6,7 @@
 4. [Stworzenie dokumentacji projektu ( 3 dni) DW](docs/short_term/API_Comparison.md)
 5. [Stworzenie repo w GIT i opublikowanie projektu oraz dokumentacji( 1 dzien) JS](docs/short_term/API_Comparison.md)
 6. [Analiza rynku, jakie są dostępne API ChatBot/VoiceBot, porównanie ( 2 dni) JS](docs/shor_term/Bots_Comparison.xlsx)
-7. [Analiza planu B ( 2 dni) #9.pkt w głownym - konieczny punkt JS](docs/short_term/API_Comparison.md)
+7. [Analiza planu B ( 2 dni) #9.pkt w głownym - konieczny punkt JS](/images/PlanB.MD)
 8. [Analiza dostępnych rozwiązań monitoringu aplikacji ( 2 dni) #10. pkt w głownym harmo. KP](docs/short_term/API_Comparison.md)
 9. [Wybór Metodologii 7# pkt w głownym harmo (1dzien) MS](docs/short_term/API_Comparison.md)
 10. [Analiza podejścia do testowania aplikacji (2 dni) #10. pkt pkt w głownym harmo. KP](docs/short_term/API_Comparison.md)
