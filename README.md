@@ -22,3 +22,8 @@ Suma kosztów: 30 pkt
 
 8.	Plan B #in progress
 9.	Monitoring i testowanie #in progress
+
+
+![GitHub Logo](Rebecka-Voice-Bot/images/planB.jpg)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
