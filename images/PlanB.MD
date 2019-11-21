@@ -1,3 +1,4 @@
+# Analiza planu B
 ![Alternatives](https://static.adweek.com/adweek.com-prod/wp-content/uploads/2018/04/marketing-alternatives-content-2018.jpg)
 Po przeanalizowaniu rynku i dostępnych na nim rozwiązań Voicebot/Chatbot service za cel obraliśmy implementację VoiceBota na platformie Dialogflow.
 Z analizy wynika, że platforma najlepiej sprawdzi się w projekcie. 
@@ -11,4 +12,4 @@ Konieczności integracji NLP, NLU, NLG, ERM.
 Potrzebnej infrastruktury do realizacji połączeń, nagrywania i przetwarzania intencji do restauracji.
 Mając na względzie deadline 31.12.2019. 
 Podjęliśmy decyzje z zespołem, że jeśli do 5 grudnia nie uda się zrealizować kamieni milowych w projekcie Voice Bot Rebeka, wówczas podejmiemy rękawice wdrożenia Chat Bot, który jest mniej złożony. 
-s
+
