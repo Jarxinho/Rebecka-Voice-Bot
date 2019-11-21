@@ -18,11 +18,7 @@ W tabeli przedstawiono 14 czynników, które szacuje projektant w skali od 1 do 
 Suma kosztów: 30 pkt
 
 6.	Metodologia #in progress
-7.	Lista zadań # in progres, to short
-1.Zrobienie bazy danych w MySQL.
- 2 Zebrać informacje na temat Twilio/Watson z czym to się je. 
-3 Znaleźć metodę geolokalizacji którą nie będzie wymagała zewnętrznych rozwiązań. 
-4.Postawienie serwera gdzie będziemy przechowywać bazę danych, nagrane dialogi. 
-5 napisanie kodu programu do ocenienia przewidywanego czasu dostawy i wstawienia go po części nagranej.
+7.	Lista zadań #Scheme
+
 8.	Plan B #in progress
 9.	Monitoring i testowanie #in progress
