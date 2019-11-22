@@ -36,18 +36,19 @@ Agile kładzie szczególny nacisk na samodzielność zespołu, który może decy
 Metoda Agile jest użyteczna nie tylko w zarządzaniu IT, ale również w przypadku, gdy w firmie niezbędna jest reorganizacja lub zmiana procesów biznesowych.
 
     Przy realizacji zadań w projektach w oparciu o metodykę programowania zwinnego wyróżnia się następujące po sobie etapy: 
+   Planowanie – zbieranie dokładnych wymagań od klienta dotyczących danego zadania, ich analiza oraz zaplanowanie kroków koniecznych do realizacji danego zadania w oparciu o pozyskane informacje. Etap ten wymaga bezpośredniego kontaktu z klientem, a co za tym idzie umiejętności dobrej komunikacji i zrozumienia drugiej osoby. 
+   
+Projektowanie – projektowanie wykonania danego elementu będącego celem zadania na bazie informacji zebranych na etapie planowania. Można to porównać do wykonania projektu elementu domu przez architekta przed przystąpieniem do prac nad nim przez ekipę budowlaną. 
+    
+Programowanie – właściwy etap prac nad danym zadaniem na bazie przygotowanego projektu zadania. 
+    
+Testowanie – testowanie danego elementu będącego podmiotem zadania od strony technicznej przez osobę lub zespół wykonujący dane zadanie oraz od strony klienta czy dany element jest tym czego klient oczekiwał.
 
-    Planowanie – zbieranie dokładnych wymagań od klienta dotyczących danego zadania, ich analiza oraz zaplanowanie kroków koniecznych do realizacji danego zadania w oparciu o pozyskane informacje. Etap ten wymaga bezpośredniego kontaktu z klientem, a co za tym idzie umiejętności dobrej komunikacji i zrozumienia drugiej osoby. 
+Implementacja – po pozytywnych wynikach testów przekazanie danego elementu projektu na „produkcję” do finalnego użytkowania przez klienta. 
     
-    Projektowanie – projektowanie wykonania danego elementu będącego celem zadania na bazie informacji zebranych na etapie planowania. Można to porównać do wykonania projektu elementu domu przez architekta przed przystąpieniem do prac nad nim przez ekipę budowlaną. 
-    
-    Programowanie – właściwy etap prac nad danym zadaniem na bazie przygotowanego projektu zadania. 
-Testowanie – testowanie danego elementu będącego podmiotem zadania od strony technicznej przez osobę lub zespół wykonujący dane zadanie oraz od strony klienta czy dany element jest tym czego klient oczekiwał. 
-    Implementacja – po pozytywnych wynikach testów przekazanie danego elementu projektu na „produkcję” do finalnego użytkowania przez klienta. 
-    
-    Informacja zwrotna – przekazanie informacji zwrotnej przez klienta do osoby lub zespołu realizującego dane zadanie w projekcie odnośnie ewentualnych mniejszych błędów, których nie wykryto podczas testów, zgłaszanie potencjalnych usprawnień do realizacji w kolejnych cyklach lub zgłoszenie zmiany wymagań klienta. Mając na myśli zmianę wymagań mówimy o rzeczywistej zmianie wymagań - wynikłej np. ze zmiany procesów lub potrzeb klienta - nie natomiast jak zaznaczono wcześniej o zmianie wynikającej z pominięcia lub niedokładnego przeprowadzenia etapu Planowania. 
-    
-    Powyższe etapy tworzą cykl powtarzany do czasu zakończenia danego zadania. Bardzo ważne jest zaznaczenie, iż kolejne cykle mają służyć ewentualnemu skorygowaniu przygotowanego zadania na bazie informacji klienta lub elastycznemu wprowadzaniu ewentualnych zmian wymagań ze strony klienta jeżeli takie się pojawiły w formie informacji zwrotnej (feedback). Kolejne cykle nie mają natomiast na celu – jak błędnie przyjmuje część „chaotycznych / niezorganizowanych” osób lub zespołów – nieskończone poprawianie błędów danego zadania wynikających z pominięcia lub niedokładnego przeprowadzenia etapu Planowania w tym zbierania i analizy wymagań od klienta.
+Informacja zwrotna – przekazanie informacji zwrotnej przez klienta do osoby lub zespołu realizującego dane zadanie w projekcie odnośnie ewentualnych mniejszych błędów, których nie wykryto podczas testów, zgłaszanie potencjalnych usprawnień do realizacji w kolejnych cyklach lub zgłoszenie zmiany wymagań klienta. Mając na myśli zmianę wymagań mówimy o rzeczywistej zmianie wymagań - wynikłej np. ze zmiany procesów lub potrzeb klienta - nie natomiast jak zaznaczono wcześniej o zmianie wynikającej z pominięcia lub niedokładnego przeprowadzenia etapu Planowania. 
+
+   Powyższe etapy tworzą cykl powtarzany do czasu zakończenia danego zadania. Bardzo ważne jest zaznaczenie, iż kolejne cykle mają służyć ewentualnemu skorygowaniu przygotowanego zadania na bazie informacji klienta lub elastycznemu wprowadzaniu ewentualnych zmian wymagań ze strony klienta jeżeli takie się pojawiły w formie informacji zwrotnej (feedback). Kolejne cykle nie mają natomiast na celu – jak błędnie przyjmuje część „chaotycznych / niezorganizowanych” osób lub zespołów – nieskończone poprawianie błędów danego zadania wynikających z pominięcia lub niedokładnego przeprowadzenia etapu Planowania w tym zbierania i analizy wymagań od klienta.
     Podstawowe zasady
     •	osiągnięcie satysfakcji klienta poprzez szybkość wytwarzania oprogramowania,
     •	podstawową miarą postępu jest działające oprogramowanie,
@@ -59,7 +60,7 @@ Testowanie – testowanie danego elementu będącego podmiotem zadania od strony
     •	samoorganizacja zespołów,
     •	regularna adaptacja do zmieniających się wymagań.
 
-    Częstym błędem występującym u osób i zespołów stosujących metodykę agile jest nadinterpretacja jej założeń i całkowicie błędne pomijanie bardzo ważnych etapów projektu tj. fazy zbierania wymagań, a następnie na ich podstawie faz analizy oraz planowania.
+   Częstym błędem występującym u osób i zespołów stosujących metodykę agile jest nadinterpretacja jej założeń i całkowicie błędne pomijanie bardzo ważnych etapów projektu tj. fazy zbierania wymagań, a następnie na ich podstawie faz analizy oraz planowania.
 
 7.	[Lista zadań](Scheme.md)
 
