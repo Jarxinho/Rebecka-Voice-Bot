@@ -55,19 +55,19 @@ Informacja zwrotna – przekazanie informacji zwrotnej przez klienta do osoby lu
 
 - podstawową miarą postępu jest działające oprogramowanie,
 
--późne zmiany w specyfikacji nie mają destrukcyjnego wpływu na proces wytwarzania oprogramowania,
+- późne zmiany w specyfikacji nie mają destrukcyjnego wpływu na proces wytwarzania oprogramowania,
 
--bliska, codzienna współpraca pomiędzy biznesem a deweloperem,
+- bliska, codzienna współpraca pomiędzy biznesem a deweloperem,
 
--bezpośredni kontakt jako najlepsza forma komunikacji w zespole i poza nim,
+- bezpośredni kontakt jako najlepsza forma komunikacji w zespole i poza nim,
 
--ciągła uwaga nastawiona na aspekty techniczne oraz dobry projekt (design),
+- ciągła uwaga nastawiona na aspekty techniczne oraz dobry projekt (design),
 
--prostota- sztuka maksymalizacji ilości pracy, która nie została wykonana – jest niezbędna
+- prostota- sztuka maksymalizacji ilości pracy, która nie została wykonana – jest niezbędna
 
--samoorganizacja zespołów,
+- samoorganizacja zespołów,
 
--regularna adaptacja do zmieniających się wymagań.
+- regularna adaptacja do zmieniających się wymagań.
 
    Częstym błędem występującym u osób i zespołów stosujących metodykę agile jest nadinterpretacja jej założeń i całkowicie błędne pomijanie bardzo ważnych etapów projektu tj. fazy zbierania wymagań, a następnie na ich podstawie faz analizy oraz planowania.
 
