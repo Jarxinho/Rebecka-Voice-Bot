@@ -25,7 +25,7 @@ W tabeli przedstawiono 14 czynników, które szacuje projektant w skali od 1 do 
 Suma kosztów: 30 pkt
 
 6.	Metodologia #in progress
-7.	[Lista zadań](Scheme.MD)
+7.	[Lista zadań](/Scheme.MD)
 
 8.	[Plan B](/images/PlanB.MD)
 9.	Monitoring i testowanie #in progress
