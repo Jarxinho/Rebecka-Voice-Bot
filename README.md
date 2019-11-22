@@ -37,9 +37,9 @@ Suma kosztów: 30 pkt
 - Agile kładzie szczególny nacisk na samodzielność zespołu, który może decydować o przebiegu pracy bez potrzeby uzyskania zgody od kierownictwa.
 - Metoda Agile jest użyteczna nie tylko w zarządzaniu IT, ale również w przypadku, gdy w firmie niezbędna jest reorganizacja lub zmiana procesów biznesowych.
 
-   Przy realizacji zadań w projektach w oparciu o metodykę programowania zwinnego wyróżnia się następujące po sobie etapy: 
+ Przy realizacji zadań w projektach w oparciu o metodykę programowania zwinnego wyróżnia się następujące po sobie etapy: 
    
-   - Planowanie – zbieranie dokładnych wymagań od klienta dotyczących danego zadania, ich analiza oraz zaplanowanie kroków koniecznych do realizacji danego zadania w oparciu o pozyskane informacje. Etap ten wymaga bezpośredniego kontaktu z klientem, a co za tym idzie umiejętności dobrej komunikacji i zrozumienia drugiej osoby. 
+- Planowanie – zbieranie dokładnych wymagań od klienta dotyczących danego zadania, ich analiza oraz zaplanowanie kroków koniecznych do realizacji danego zadania w oparciu o pozyskane informacje. Etap ten wymaga bezpośredniego kontaktu z klientem, a co za tym idzie umiejętności dobrej komunikacji i zrozumienia drugiej osoby. 
    
 - Projektowanie – projektowanie wykonania danego elementu będącego celem zadania na bazie informacji zebranych na etapie planowania. Można to porównać do wykonania projektu elementu domu przez architekta przed przystąpieniem do prac nad nim przez ekipę budowlaną. 
     
