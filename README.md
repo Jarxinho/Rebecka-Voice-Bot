@@ -27,6 +27,6 @@ Suma kosztów: 30 pkt
 6.	Metodologia #in progress
 7.	Lista zadań #Scheme
 
-8.	Plan B #in progress
+8.	[Plan B](/images/PlanB.MD)
 9.	Monitoring i testowanie #in progress
 
