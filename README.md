@@ -26,7 +26,9 @@ Suma kosztów: 30 pkt
 6.  Metodologia #in progress - 
 
   Metodologia Agile – Manifest Agile
-Cechy charakterystyczne Agile:
+  
+  Cechy charakterystyczne Agile:
+  
 Ten typ zarządzania projektem kładzie szczególny nacisk na kontakt z klientem oraz drobne zmiany w planie działania, które mają usprawnić pracę i zapewnić lepszy finalny produkt.
 Zespoły pracujące wg metody Agile skupiają się na szybkim dostarczeniu dobrej jakości wersji produktu, która w kolejnych iteracjach (sprintach) jest ulepszana lub zmieniana zgodnie z aktualnymi wymaganiami klienta.
 Agile opiera się na tzw. sprintach, czyli małych blokach, które obejmują zdefiniowany zakres “rzeczy do zrobienia”.
