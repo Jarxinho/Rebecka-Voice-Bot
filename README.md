@@ -35,7 +35,8 @@ Sprinty przydają się szczególnie wtedy, gdy zależy ci na szybkich efektach l
 Agile kładzie szczególny nacisk na samodzielność zespołu, który może decydować o przebiegu pracy bez potrzeby uzyskania zgody od kierownictwa.
 Metoda Agile jest użyteczna nie tylko w zarządzaniu IT, ale również w przypadku, gdy w firmie niezbędna jest reorganizacja lub zmiana procesów biznesowych.
 
-    Przy realizacji zadań w projektach w oparciu o metodykę programowania zwinnego wyróżnia się następujące po sobie etapy: 
+   Przy realizacji zadań w projektach w oparciu o metodykę programowania zwinnego wyróżnia się następujące po sobie etapy: 
+   
    Planowanie – zbieranie dokładnych wymagań od klienta dotyczących danego zadania, ich analiza oraz zaplanowanie kroków koniecznych do realizacji danego zadania w oparciu o pozyskane informacje. Etap ten wymaga bezpośredniego kontaktu z klientem, a co za tym idzie umiejętności dobrej komunikacji i zrozumienia drugiej osoby. 
    
 Projektowanie – projektowanie wykonania danego elementu będącego celem zadania na bazie informacji zebranych na etapie planowania. Można to porównać do wykonania projektu elementu domu przez architekta przed przystąpieniem do prac nad nim przez ekipę budowlaną. 
@@ -50,15 +51,23 @@ Informacja zwrotna – przekazanie informacji zwrotnej przez klienta do osoby lu
 
    Powyższe etapy tworzą cykl powtarzany do czasu zakończenia danego zadania. Bardzo ważne jest zaznaczenie, iż kolejne cykle mają służyć ewentualnemu skorygowaniu przygotowanego zadania na bazie informacji klienta lub elastycznemu wprowadzaniu ewentualnych zmian wymagań ze strony klienta jeżeli takie się pojawiły w formie informacji zwrotnej (feedback). Kolejne cykle nie mają natomiast na celu – jak błędnie przyjmuje część „chaotycznych / niezorganizowanych” osób lub zespołów – nieskończone poprawianie błędów danego zadania wynikających z pominięcia lub niedokładnego przeprowadzenia etapu Planowania w tym zbierania i analizy wymagań od klienta.
     Podstawowe zasady
-    •	osiągnięcie satysfakcji klienta poprzez szybkość wytwarzania oprogramowania,
-    •	podstawową miarą postępu jest działające oprogramowanie,
-    •	późne zmiany w specyfikacji nie mają destrukcyjnego wpływu na proces wytwarzania oprogramowania,
-    •	bliska, codzienna współpraca pomiędzy biznesem a deweloperem,
-    •	bezpośredni kontakt jako najlepsza forma komunikacji w zespole i poza nim,
-    •	ciągła uwaga nastawiona na aspekty techniczne oraz dobry projekt (design),
-    •	prostota- sztuka maksymalizacji ilości pracy, która nie została wykonana – jest niezbędna
-    •	samoorganizacja zespołów,
-    •	regularna adaptacja do zmieniających się wymagań.
+- osiągnięcie satysfakcji klienta poprzez szybkość wytwarzania oprogramowania,
+
+- podstawową miarą postępu jest działające oprogramowanie,
+
+-późne zmiany w specyfikacji nie mają destrukcyjnego wpływu na proces wytwarzania oprogramowania,
+
+-bliska, codzienna współpraca pomiędzy biznesem a deweloperem,
+
+-bezpośredni kontakt jako najlepsza forma komunikacji w zespole i poza nim,
+
+-ciągła uwaga nastawiona na aspekty techniczne oraz dobry projekt (design),
+
+-prostota- sztuka maksymalizacji ilości pracy, która nie została wykonana – jest niezbędna
+
+-samoorganizacja zespołów,
+
+-regularna adaptacja do zmieniających się wymagań.
 
    Częstym błędem występującym u osób i zespołów stosujących metodykę agile jest nadinterpretacja jej założeń i całkowicie błędne pomijanie bardzo ważnych etapów projektu tj. fazy zbierania wymagań, a następnie na ich podstawie faz analizy oraz planowania.
 
