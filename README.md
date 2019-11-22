@@ -23,7 +23,7 @@ W tabeli przedstawiono 14 czynników, które szacuje projektant w skali od 1 do 
 
 Suma kosztów: 30 pkt
 
-6.  Metodologia #in progress - 
+6.  Metodologia
 
   Metodologia Agile – Manifest Agile
   
