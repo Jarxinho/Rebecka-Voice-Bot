@@ -1,6 +1,9 @@
 # Rebecka-Voice-Bot
+
 Group Project
 PWSZ Nowy Sącz
+
+![ChatBot](https://miro.medium.com/max/1200/0*Ocrf5g0MBNVSOrG1.png)
 
 1.	Dla kogo? Dla restauracji które otrzymują dużo zamówień telefonicznych od swoich klientów
 2.	Cel = efekt projektu. Zastąpienie rutynowej czynności wykonywanej przez człowieka VoiceBotem „Rebeka”. Zmniejszenie liczby etatów. Usprawnienie procesu złożenia zamówienia.
@@ -17,7 +20,7 @@ Rys. 1.0. Struktura podziału pracy(WBS) dla projektu Asystent głosowy (uszczeg
 
 W tabeli przedstawiono 14 czynników, które szacuje projektant w skali od 1 do 5 jako współczynniki mające istotne znaczenie dla złożoności, wielkości i problemów napotykanych przy budowie oprogramowania.
 
-![Analysis2](https://iv.pl/image/GrgowJw)
+![Analysis2](https://imagizer.imageshack.com/img923/4290/8Z9bdB.png)
 Suma kosztów: 30 pkt
 
 6.	Metodologia #in progress
