@@ -78,18 +78,31 @@ Suma kosztów: 30 pkt
 7.	Lista zadań
 
     1.Scenariusze rozmów ( 2 dni) DW
+    
     2.Zaprojektowanie bazy danych, wybranie technologii, tabele, kolumny, relacje (3dni) JP
+    
     3.Stworzenie dokumentacji projektu ( 3 dni) DW
+    
     4.Stworzenie repo w GIT i opublikowanie projektu oraz dokumentacji( 1 dzien) JS
+    
     5.Analiza rynku, jakie są dostępne API ChatBot/VoiceBot, porównanie ( 2 dni) JS
+    
     6.Analiza planu B ( 2 dni) #9.pkt w głownym - konieczny punkt JS
+    
     7.Analizai porównanie dostępnych rozwiązań monitoringu aplikacji ( 5 dni) #10. pkt w głownym harmo. KP
+    
     8.Wybór Metodologii 7# pkt w głownym harmo (2dzni) MS
+    
     9.Implementacja dialogflow (30dni) JS
+    
     10.Analiza ryzyka, uporządkowanie repozytorium (3 dni ) MS
+    
     11.Diagram przypadków użycia (3 dni) DW
+    
     12.Studium wykonalności (3 dni) JS
+    
     13.Wybór najlepszego rozwiązania monitoringu, obszar testów (3 dni) KP
+    
     14.Połączenie DialogFlow z MySQL na podstawie innej prostej aplikacji (3dni) JP
 
 8.	Plan B
