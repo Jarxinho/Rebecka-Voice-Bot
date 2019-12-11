@@ -34,6 +34,8 @@ Lista ryzyk:
 
 - Brak zaangażowania wszystkich w projekt
 
+- Złe rozdzielenie zadań w grupie
+
 - Praca inżynierska
 
 - Krotki deadline
@@ -45,3 +47,16 @@ Lista ryzyk:
 - Niemozliwosc zastosowania load balancera.
 
 - Niezdolność zintegrowania bazy danych z dialogflowem
+
+- Nie spełnienie wszystkich wymagań klienta
+
+3.Jakościowa analiza ryzyka 
+
+Subiektywna analiza prawdopodobieństwa i skutku w kategoriach intuicyjnych typu mały-duży
+
+Technika:  - ustalenie kilkustopniowej skali określającej poziomy prawdopodobieństwa i skutku  - wyznaczenie granic tolerancji ryzyka  - przygotowanie macierzy oceny ryzyka
+
+Wyniki:  - lista ryzyk uszeregowana wg priorytetów  - lista ryzyk wymagających dalszej analizy oraz tych o mniejszym znaczeniu
+
+![Alternatives](https://i0.wp.com/inzynierjakosci.pl/wp-content/uploads/2018/03/macierz_ryzyka.png)
+
