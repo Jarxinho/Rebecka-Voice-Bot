@@ -76,7 +76,9 @@ Suma kosztów: 30 pkt
    Częstym błędem występującym u osób i zespołów stosujących metodykę agile jest nadinterpretacja jej założeń i całkowicie błędne pomijanie bardzo ważnych etapów projektu tj. fazy zbierania wymagań, a następnie na ich podstawie faz analizy oraz planowania.
 
 7.	Lista zadań
-
+    
+    SHOR-TERM
+    
    - Scenariusze rozmów ( 2 dni) DW
     
    - Zaprojektowanie bazy danych, wybranie technologii, tabele, kolumny, relacje (3dni) JP
@@ -93,8 +95,6 @@ Suma kosztów: 30 pkt
     
    - Wybór Metodologii 7# pkt w głownym harmo (2dzni) MS
     
-   - Implementacja dialogflow (30dni) JS
-    
    - Analiza ryzyka, uporządkowanie repozytorium (3 dni ) MS
     
    - Diagram przypadków użycia (3 dni) DW
@@ -104,6 +104,14 @@ Suma kosztów: 30 pkt
    - Wybór najlepszego rozwiązania monitoringu, obszar testów (3 dni) KP
     
    - Połączenie DialogFlow z MySQL na podstawie innej prostej aplikacji (3dni) JP
+   
+   LONG-TERM
+   
+   - Implementacja dialogflow (30dni) JS
+   
+   - Udostępnienie aplikacji na świat, wybór dostawcy hostingu ( po skończeniu implementacji) (2dni)
+   
+   - Implementacja monitoringu, healtchecki, alerty 
 
 8.	Plan B
 
