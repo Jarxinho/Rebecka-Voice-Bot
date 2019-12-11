@@ -115,7 +115,7 @@ Suma kosztów: 30 pkt
 
 8.	Plan B
 
-  Analiza planu B
+  Analiza planu B(https://static.adweek.com/adweek.com-prod/wp-content/uploads/2018/04/marketing-alternatives-content-2018.jpg)
   
   *Po przeanalizowaniu rynku i dostępnych na nim rozwiązań Voicebot/Chatbot service za cel obraliśmy implementację VoiceBota na platformie Dialogflow.
 Z analizy wynika, że platforma najlepiej sprawdzi się w projekcie. 
