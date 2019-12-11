@@ -21,7 +21,8 @@ W tabeli przedstawiono 14 czynników, które szacuje projektant w skali od 1 do 
 
 ![Analysis2](https://imagizer.imageshack.com/img923/4290/8Z9bdB.png)
 
-Suma kosztów: 30 pkt
+Suma kosztów: 30 pkt 
+
 
 6.  Metodologia
 
@@ -74,6 +75,8 @@ Suma kosztów: 30 pkt
 - regularna adaptacja do zmieniających się wymagań.
 
    Częstym błędem występującym u osób i zespołów stosujących metodykę agile jest nadinterpretacja jej założeń i całkowicie błędne pomijanie bardzo ważnych etapów projektu tj. fazy zbierania wymagań, a następnie na ich podstawie faz analizy oraz planowania.
+   
+   
 
 7.	Lista zadań
     
@@ -112,6 +115,7 @@ Suma kosztów: 30 pkt
    - Udostępnienie aplikacji na świat, wybór dostawcy hostingu ( po skończeniu implementacji) (2dni)
    
    - Implementacja monitoringu, healtchecki, alerty 
+   
 
 8.	Plan B
 
@@ -131,6 +135,7 @@ Konieczności integracji NLP, NLU, NLG, ERM.
 Potrzebnej infrastruktury do realizacji połączeń, nagrywania i przetwarzania intencji do restauracji.
 Mając na względzie deadline 31.12.2019. 
 Podjęliśmy decyzje z zespołem, że jeśli do 5 grudnia nie uda się zrealizować kamieni milowych w projekcie Voice Bot Rebeka, wówczas podejmiemy rękawice wdrożenia Chat Bot, który jest mniej złożony. 
+
 
 9.	Monitoring i testowanie #in progress
 
