@@ -58,5 +58,5 @@ Technika:  - ustalenie kilkustopniowej skali określającej poziomy prawdopodobi
 
 Wyniki:  - lista ryzyk uszeregowana wg priorytetów  - lista ryzyk wymagających dalszej analizy oraz tych o mniejszym znaczeniu
 
-![Alternatives](https://i0.wp.com/inzynierjakosci.pl/wp-content/uploads/2018/03/macierz_ryzyka.png)
+![Alternatives](https://sekurak.pl/wp-content/uploads/2014/01/owasp_risk.jpg)
 
