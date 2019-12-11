@@ -1,3 +1,5 @@
+##ANALIZA RYZYKA
+
 1.Identyfikacja ryzyka
 
 Określenie jakie ryzyka mogą wpływać na projekt oraz dokumentowanie ich charakteru
