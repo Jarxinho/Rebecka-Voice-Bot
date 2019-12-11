@@ -78,7 +78,9 @@ Suma kosztów: 30 pkt
 7.	[Lista zadań](Scheme.md)
 
 8.	Plan B
+
   Analiza planu B
+  
   *Po przeanalizowaniu rynku i dostępnych na nim rozwiązań Voicebot/Chatbot service za cel obraliśmy implementację VoiceBota na platformie Dialogflow.
 Z analizy wynika, że platforma najlepiej sprawdzi się w projekcie. 
 Absolutnym must have przy podjęciu tej decyzji było wsparcie języka polskiego, gdyż produkt jest przeznaczony na polski rynek, polskojęzycznych klientów. 
@@ -92,5 +94,6 @@ Konieczności integracji NLP, NLU, NLG, ERM.
 Potrzebnej infrastruktury do realizacji połączeń, nagrywania i przetwarzania intencji do restauracji.
 Mając na względzie deadline 31.12.2019. 
 Podjęliśmy decyzje z zespołem, że jeśli do 5 grudnia nie uda się zrealizować kamieni milowych w projekcie Voice Bot Rebeka, wówczas podejmiemy rękawice wdrożenia Chat Bot, który jest mniej złożony. 
+
 9.	Monitoring i testowanie #in progress
 
