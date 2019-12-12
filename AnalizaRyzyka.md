@@ -64,7 +64,18 @@ Wyniki:  - lista ryzyk uszeregowana wg priorytetów  - lista ryzyk wymagających
 
       ZAGROŻENIA                                  PRAWDOPODOBIEŃSTWO       SKUTKI      OCENA RYZYKA
 
-  1. Brak zaangażowania wszystkich w projekt 
+  5. W przypadku języka polskiego jest mocno
+  ograniczone grono dostawców infrastruktury
+  SIP, która integruje się z dialogflow
+  
+  1. Brak zaangażowania wszystkich w projekt          ŚREDNIE              ŚREDNIE      RYZYKO TOLEROWANE
+  
+  3. Praca inżynierska                                ŚREDNIE              ŚREDNIE      RYZYKO TOLEROWANE
+  
+  4. Krotki deadline                                  ŚREDNIE              ŚREDNIE      RYZYKO TOLEROWANE
 
+  
+  2. Złe rozdzielenie zadań w grupie                   NISKIE              ŚREDNIE      MAŁE
 
+  
 
