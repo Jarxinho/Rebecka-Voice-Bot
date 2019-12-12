@@ -62,3 +62,6 @@ Wyniki:  - lista ryzyk uszeregowana wg priorytetów  - lista ryzyk wymagających
 
 ![Alternatives](https://sekurak.pl/wp-content/uploads/2014/01/owasp_risk.jpg)
 
+:-------------------:|:-------------------|--------------------:
+      `r E(zmienna)` |                  2 | `r Q(zmienna, 1, 4)`
+      `r N(zmienna)` |  10                |  inny tekst
