@@ -30,7 +30,7 @@ Ryzyko może dotyczyć..
 
 2.Technika zbierania informacji.
 
-Burza mozgów, wyniki..
+Burza mozgów, wyniki
 
 Lista ryzyk:
 
@@ -44,15 +44,15 @@ Lista ryzyk:
 
   5. W przypadku języka polskiego jest mocno ograniczone grono dostawców infrastruktury SIP, która integruje się z dialogflow
 
-  6. Dogadanie sie biznesowe z monopolistami, którzy mogą krzyknąć zaporową stawkę
+  6. Negocjacje biznesowe z monopolistami, którzy mogą krzyknąć zaporową stawkę
 
-  7. Niemozliwosc zastosowania load balancera.
+  7. Brak możliwości zastosowania load balancera.
 
-  8. Niezdolność zintegrowania bazy danych z dialogflowem
+  8. Trudna integracja bazy danych z dialogflow
 
   9. Nie spełnienie wszystkich wymagań klienta
 
-3.Jakościowa analiza ryzyka 
+3. Jakościowa analiza ryzyka 
 
 Subiektywna analiza prawdopodobieństwa i skutku w kategoriach intuicyjnych typu mały-duży
 
