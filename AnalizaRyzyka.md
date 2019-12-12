@@ -61,7 +61,7 @@ Technika:  - ustalenie kilkustopniowej skali określającej poziomy prawdopodobi
 Wyniki:  - lista ryzyk uszeregowana wg priorytetów  - lista ryzyk wymagających dalszej analizy oraz tych o mniejszym znaczeniu
 
 ![Alternatives](https://github.com/Jarxinho/Rebecka-Voice-Bot/blob/develop/images/macierz.JPG)
- ![Alternatives](https://github.com/Jarxinho/Rebecka-Voice-Bot/blob/develop/images/macierz3.JPG)
+ ![Alternatives](https://github.com/Jarxinho/Rebecka-Voice-Bot/blob/develop/images/macierz2.JPG)
 
 
  Zapobieganie 
