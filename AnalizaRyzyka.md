@@ -67,11 +67,11 @@ Wyniki:  - lista ryzyk uszeregowana wg priorytetów  - lista ryzyk wymagających
  Zapobieganie 
  
  1. wygospodarowanie czasu na:
-zbadanie zachowania się aplikacji w różnych środowiskach (testy)
-usuwanie błędów
+zbadanie zachowania się aplikacji w różnych środowiskach (testy)
+usuwanie błędów
  
  2. rozmowy z klientem przed opisaniem konkretnych funkcjonalności
-eliminacja wszystkich niezrozumiałych dla wykonawcy fragmentów specyfikacji
+eliminacja wszystkich niezrozumiałych dla wykonawcy fragmentów specyfikacji
 
  3. uzgodnienie 
  
