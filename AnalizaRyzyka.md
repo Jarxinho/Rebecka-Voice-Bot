@@ -64,18 +64,18 @@ Wyniki:  - lista ryzyk uszeregowana wg priorytetów  - lista ryzyk wymagających
 
       ZAGROŻENIA                                  PRAWDOPODOBIEŃSTWO       SKUTKI      OCENA RYZYKA
 
-  5. W przypadku języka polskiego jest mocno
+  5. W przypadku języka polskiego jest mocno          ŚREDNIE              WYSOKIE      WYSOKIE             ZAKRES NIETOLEROWANY
   ograniczone grono dostawców infrastruktury
   SIP, która integruje się z dialogflow
   
-  1. Brak zaangażowania wszystkich w projekt          ŚREDNIE              ŚREDNIE      RYZYKO TOLEROWANE
+  1. Brak zaangażowania wszystkich w projekt          ŚREDNIE              ŚREDNIE      ŚREDNIE             ZAKRES TOLEROWANY
   
-  3. Praca inżynierska                                ŚREDNIE              ŚREDNIE      RYZYKO TOLEROWANE
+  3. Praca inżynierska                                ŚREDNIE              ŚREDNIE      ŚREDNIE             ZAKRES TOLEROWANY
   
-  4. Krotki deadline                                  ŚREDNIE              ŚREDNIE      RYZYKO TOLEROWANE
+  4. Krotki deadline                                  ŚREDNIE              ŚREDNIE      ŚREDNIE             ZAKRES TOLEROWANY
 
   
-  2. Złe rozdzielenie zadań w grupie                   NISKIE              ŚREDNIE      MAŁE
+  2. Złe rozdzielenie zadań w grupie                   NISKIE              ŚREDNIE      MAŁE                ZAKRES AKCEPTOWALNY
 
   
 
