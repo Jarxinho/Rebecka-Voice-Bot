@@ -82,7 +82,7 @@ Suma kosztów: 30 pkt
     
     SHOR-TERM
     
-   - Scenariusze rozmów ( 2 dni) DW
+   - [Scenariusze rozmów ( 2 dni) DW](https://github.com/Jarxinho/Rebecka-Voice-Bot/blob/develop/Scenariusz%20Rebeki.pdf)
     
    - Zaprojektowanie bazy danych, wybranie technologii, tabele, kolumny, relacje (3dni) JP
     
