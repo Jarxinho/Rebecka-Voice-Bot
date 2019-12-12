@@ -34,23 +34,23 @@ Burza mozgów, wyniki..
 
 Lista ryzyk:
 
-- Brak zaangażowania wszystkich w projekt
+  1. Brak zaangażowania wszystkich w projekt
 
-- Złe rozdzielenie zadań w grupie
+  2. Złe rozdzielenie zadań w grupie
 
-- Praca inżynierska
+  3. Praca inżynierska
 
-- Krotki deadline
+  4. Krotki deadline
 
-- W przypadku języka polskiego jest mocno ograniczone grono dostawców infrastruktury SIP, która integruje się z dialogflow
+  5. W przypadku języka polskiego jest mocno ograniczone grono dostawców infrastruktury SIP, która integruje się z dialogflow
 
-- Dogadanie sie biznesowe z monopolistami, którzy mogą krzyknąć zaporową stawkę
+  6. Dogadanie sie biznesowe z monopolistami, którzy mogą krzyknąć zaporową stawkę
 
-- Niemozliwosc zastosowania load balancera.
+  7. Niemozliwosc zastosowania load balancera.
 
-- Niezdolność zintegrowania bazy danych z dialogflowem
+  8. Niezdolność zintegrowania bazy danych z dialogflowem
 
-- Nie spełnienie wszystkich wymagań klienta
+  9. Nie spełnienie wszystkich wymagań klienta
 
 3.Jakościowa analiza ryzyka 
 
@@ -61,3 +61,10 @@ Technika:  - ustalenie kilkustopniowej skali określającej poziomy prawdopodobi
 Wyniki:  - lista ryzyk uszeregowana wg priorytetów  - lista ryzyk wymagających dalszej analizy oraz tych o mniejszym znaczeniu
 
 ![Alternatives](https://github.com/Jarxinho/Rebecka-Voice-Bot/blob/develop/images/macierz.JPG)
+
+      ZAGROŻENIA                                  PRAWDOPODOBIEŃSTWO       SKUTKI      OCENA RYZYKA
+
+  1. Brak zaangażowania wszystkich w projekt 
+
+
+
