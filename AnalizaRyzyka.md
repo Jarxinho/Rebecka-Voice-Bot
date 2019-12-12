@@ -30,7 +30,7 @@ Ryzyko może dotyczyć
 
 2. Technika zbierania informacji.
 
-Burza mozgów, wyniki
+W wyniku zespołowej burzy mózgów powstała poniższa lista ryzyk.
 
 Lista ryzyk:
 
