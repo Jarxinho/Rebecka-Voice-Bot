@@ -64,5 +64,17 @@ Wyniki:  - lista ryzyk uszeregowana wg priorytetów  - lista ryzyk wymagających
 
  ![Alternatives](https://github.com/Jarxinho/Rebecka-Voice-Bot/blob/develop/images/macierz2.JPG)
 
-  
+ Zapobieganie 
+ 
+ 1. wygospodarowanie czasu na:
+zbadanie zachowania się aplikacji w różnych środowiskach (testy)
+usuwanie błędów
+ 
+ 2. rozmowy z klientem przed opisaniem konkretnych funkcjonalności
+eliminacja wszystkich niezrozumiałych dla wykonawcy fragmentów specyfikacji
 
+ 3. uzgodnienie 
+ 
+ 4. uzgodnienie z klientem ograniczeń językowych mogących wystąpić przy tworzeniu aplikacji
+ 
+ 
