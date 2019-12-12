@@ -62,17 +62,7 @@ Wyniki:  - lista ryzyk uszeregowana wg priorytetów  - lista ryzyk wymagających
 
 ![Alternatives](https://github.com/Jarxinho/Rebecka-Voice-Bot/blob/develop/images/macierz.JPG)
 
-      ZAGROŻENIA                                  PRAWDOPODOBIEŃSTWO       SKUTKI      OCENA RYZYKA
-
-  5. W przypadku języka polskiego jest mocno ograniczone grono dostawców infrastruktury SIP, która integruje się z dialogflow --ŚREDNIE-- WYSOKIE-- WYSOKIE --ZAKRES NIETOLEROWANY
-  
-  1. Brak zaangażowania wszystkich w projekt--ŚREDNIE--ŚREDNIE--ŚREDNIE--ZAKRES TOLEROWANY
-  
-  3. Praca inżynierska--ŚREDNIE--ŚREDNIE--ŚREDNIE--ZAKRES TOLEROWANY
-  
-  4. Krotki deadline--ŚREDNIE--ŚREDNIE--ŚREDNIE--ZAKRES TOLEROWANY
-
-  2. Złe rozdzielenie zadań w grupie--NISKIE--ŚREDNIE--MAŁE--ZAKRES AKCEPTOWALNY
+ ![Alternatives](https://github.com/Jarxinho/Rebecka-Voice-Bot/blob/develop/docs/shor_term/macierz.xlsx)
 
   
 
