@@ -98,7 +98,7 @@ Suma kosztów: 30 pkt
     
    - Wybór Metodologii 7# pkt w głownym harmo (2dzni) MS
     
-   - Analiza ryzyka, uporządkowanie repozytorium (3 dni ) MS
+   - [Analiza ryzyka, uporządkowanie repozytorium (3 dni ) MS](https://github.com/Jarxinho/Rebecka-Voice-Bot/blob/develop/AnalizaRyzyka.md)
     
    - Diagram przypadków użycia (3 dni) DW
     
