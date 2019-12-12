@@ -1,6 +1,6 @@
 ## ANALIZA RYZYKA
 
-1.Identyfikacja ryzyka
+1. Identyfikacja ryzyka
 
 Określenie jakie ryzyka mogą wpływać na projekt oraz dokumentowanie ich charakteru
 
@@ -28,7 +28,7 @@ Ryzyko może dotyczyć
 
 - satysfakcji klienta
 
-2.Technika zbierania informacji.
+2. Technika zbierania informacji.
 
 Burza mozgów, wyniki
 
