@@ -61,7 +61,4 @@ Technika:  - ustalenie kilkustopniowej skali określającej poziomy prawdopodobi
 Wyniki:  - lista ryzyk uszeregowana wg priorytetów  - lista ryzyk wymagających dalszej analizy oraz tych o mniejszym znaczeniu
 
 ![Alternatives](https://sekurak.pl/wp-content/uploads/2014/01/owasp_risk.jpg)
-
-:-------------------:|:-------------------|--------------------:
-      `r E(zmienna)` |                  2 | `r Q(zmienna, 1, 4)`
-      `r N(zmienna)` |  10                |  inny tekst
+![Alternatives](https://github.com/Jarxinho/Rebecka-Voice-Bot/blob/develop/images/macierz.JPG)
