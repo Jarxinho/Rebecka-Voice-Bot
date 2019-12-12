@@ -14,7 +14,7 @@ Kategorie ryzyka:
 
 - zewnętrzne
 
-Ryzyko może dotyczyć..
+Ryzyko może dotyczyć
 
 - harmonogramu
 
