@@ -102,8 +102,6 @@ Suma kosztów: 30 pkt
     
    - [Diagram przypadków użycia (3 dni) DW](https://github.com/Jarxinho/Rebecka-Voice-Bot/blob/develop/Diagram%20przypadkow%20uzycia.pdf)
     
-   - Studium wykonalności (3 dni) JS
-    
    - Wybór najlepszego rozwiązania monitoringu, obszar testów (3 dni) KP
     
    - Połączenie DialogFlow z MySQL na podstawie innej prostej aplikacji (3dni) JP
