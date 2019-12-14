@@ -119,7 +119,7 @@ Suma kosztów: 30 pkt
     
    - Połączenie DialogFlow z MySQL na podstawie innej prostej aplikacji (3dni) JP
    
-   LONG-TERM
+    LONG-TERM
    
    - Implementacja dialogflow (30dni) JS
    
