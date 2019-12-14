@@ -84,7 +84,7 @@ Suma kosztów: 30 pkt
     
    - [Scenariusze rozmów ( 2 dni) DW](https://github.com/Jarxinho/Rebecka-Voice-Bot/blob/develop/Rebeka%20scenariusz%20voicebot.pdf)
     
-   - Zaprojektowanie bazy danych, wybranie technologii, tabele, kolumny, relacje (3dni) JP
+   - [Zaprojektowanie bazy danych, wybranie technologii, tabele, kolumny, relacje (3dni) JP](https://github.com/Jarxinho/Rebecka-Voice-Bot/blob/develop/voicebot.png)
     
    - [Stworzenie dokumentacji projektu ( 3 dni) DW](https://github.com/Jarxinho/Rebecka-Voice-Bot/blob/develop/Dokumentacja%20techniczna.pdf)
     
