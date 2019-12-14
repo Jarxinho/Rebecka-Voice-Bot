@@ -82,11 +82,11 @@ Suma kosztów: 30 pkt
     
     SHOR-TERM
     
-   - [Scenariusze rozmów ( 2 dni) DW](https://github.com/Jarxinho/Rebecka-Voice-Bot/blob/develop/Scenariusz%20Rebeki.pdf)
+   - [Scenariusze rozmów ( 2 dni) DW](https://github.com/Jarxinho/Rebecka-Voice-Bot/blob/develop/Rebeka%20scenariusz%20voicebot.pdf)
     
    - Zaprojektowanie bazy danych, wybranie technologii, tabele, kolumny, relacje (3dni) JP
     
-   - Stworzenie dokumentacji projektu ( 3 dni) DW
+   - [Stworzenie dokumentacji projektu ( 3 dni) DW](https://github.com/Jarxinho/Rebecka-Voice-Bot/blob/develop/Dokumentacja%20techniczna.pdf)
     
    - Stworzenie repo w GIT i opublikowanie projektu oraz dokumentacji( 1 dzien) JS
     
@@ -100,7 +100,7 @@ Suma kosztów: 30 pkt
     
    - [Analiza ryzyka, uporządkowanie repozytorium (3 dni ) MS](https://github.com/Jarxinho/Rebecka-Voice-Bot/blob/develop/AnalizaRyzyka.md)
     
-   - Diagram przypadków użycia (3 dni) DW
+   - [Diagram przypadków użycia (3 dni) DW](https://github.com/Jarxinho/Rebecka-Voice-Bot/blob/develop/Diagram%20przypadkow%20uzycia.pdf)
     
    - Studium wykonalności (3 dni) JS
     
