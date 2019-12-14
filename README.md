@@ -125,7 +125,7 @@ Suma kosztów: 30 pkt
    
    - Udostępnienie aplikacji na świat, wybór dostawcy hostingu ( po skończeniu implementacji) (2dni)
    
-   - Implementacja monitoringu, healtchecki, alerty 
+   - Implementacja monitoringu, healtchecki, alerty .
    
 
 ## 8.	Plan B
