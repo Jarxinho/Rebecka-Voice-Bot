@@ -5,13 +5,26 @@ PWSZ Nowy Sącz
 
 ![ChatBot](https://miro.medium.com/max/1200/0*Ocrf5g0MBNVSOrG1.png)
 
-1.	Dla kogo? Dla restauracji które otrzymują dużo zamówień telefonicznych od swoich klientów
-2.	Cel = efekt projektu. Zastąpienie rutynowej czynności wykonywanej przez człowieka VoiceBotem „Rebeka”. Zmniejszenie liczby etatów. Usprawnienie procesu złożenia zamówienia.
-3.	Termin. 31.12.2019
-4.	Wsteczna lista kroków koniecznych do realizacji projektu. 
+## 1.	Dla kogo?
+
+Dla restauracji które otrzymują dużo zamówień telefonicznych od swoich klientów
+
+
+## 2.	Cel = efekt projektu.
+
+Zastąpienie rutynowej czynności wykonywanej przez człowieka VoiceBotem „Rebeka”. Zmniejszenie liczby etatów. Usprawnienie procesu złożenia zamówienia.
+
+## 3.	Termin.
+
+31.12.2019
+
+## 4.	Wsteczna lista kroków koniecznych do realizacji projektu. 
+
 Dane zamówienia, klienta zapisują się w bazie danych, stworzenie bazy, geolokalizacja kuriera z zamówieniem, oszacowanie czasu oczekiwania na zamówienia na podstawie capacity, dnia tygodnia, ułożenie dialogów, nagranie odpowiedzi, integracja z API Twilio/Watson.
 Poproszenie o wystawienie opinii jakości usług Rebeki, określenie czasu oczekiwania na zamówienie, przekazanie danych zamówienia do realizacji, poproszenie o kod rabatowy, zatwierdzenie zamówienia, określenie miejsca dostawy, wybranie dodatków, wybranie produktów, odebranie połączenie od klienta, rozpoczęcie mechanizmu nagrywania rozmów, uruchomienie linii telefonicznej.
-5.	Analiza
+
+## 5.	Analiza
+
 Celem projektu jest stworzenie asystenta głosowego, który będzie potrafił przyjąć zamówienie jedzenia od klienta i odpowiedzieć na podstawowe pytania klienta: 
 Przyjęcie zamówienia, Zgłoszenie reklamacji, Lokalizacja zamówienia
 Rys. 1.0. Struktura podziału pracy(WBS) dla projektu Asystent głosowy (uszczegółowiono tylko fazę implementacji)
@@ -24,7 +37,7 @@ W tabeli przedstawiono 14 czynników, które szacuje projektant w skali od 1 do 
 Suma kosztów: 30 pkt 
 
 
-6.  Metodologia
+## 6.  Metodologia
 
   Metodologia Agile – Manifest Agile
   
@@ -78,7 +91,7 @@ Suma kosztów: 30 pkt
    
    
 
-7.	Lista zadań
+## 7.	Lista zadań
     
     SHOR-TERM
     
@@ -115,7 +128,7 @@ Suma kosztów: 30 pkt
    - Implementacja monitoringu, healtchecki, alerty 
    
 
-8.	Plan B
+## 8.	Plan B
 
   Analiza planu B
   ![Alternatives](https://static.adweek.com/adweek.com-prod/wp-content/uploads/2018/04/marketing-alternatives-content-2018.jpg)
@@ -135,25 +148,25 @@ Mając na względzie deadline 31.12.2019.
 Podjęliśmy decyzje z zespołem, że jeśli do 5 grudnia nie uda się zrealizować kamieni milowych w projekcie Voice Bot Rebeka, wówczas podejmiemy rękawice wdrożenia Chat Bot, który jest mniej złożony. 
 
 
-9.	Monitoring i testowanie
+## 9.	Monitoring i testowanie
 
-## Elasticsearch
+### Elasticsearch
 Elasticsearch to rozproszony silnik wyszukiwania oparty o Apache Lucene. Elasticsearch to tak naprawdę niezależna baza danych, stworzona w Javie. Rozproszony dlatego ponieważ umożliwia klastrowanie czyli uruchomienie wielu instancji tej samej aplikacji tworzącą jedną, dzięki czemu możemy stworzyć naprawdę dużą i wydajną bazę danych, która przyjmie dane wsadowe w wielu zaawansowanych formatach, a co najważniejsze umożliwi szybkie wyszukiwanie pełnotekstowe, a na dodatek będzie łatwa w obsłudze dla deweloperów, ponieważ komunikacja z Elasticsearch następuje za pomocą JSON. Technicznie rzecz ujmując, Elasticsearch jest niezwykłą bazą danych. Na jego wyjątkowość wpływa kilka czynników: • dane przechowywane są w tzw. indeksach, czyli zbiorach dokumentów (całość oparta jest na bibliotece Lucene), • dane można wydobywać za pomocą zapytań Elasticsearch DSL wysyłanych za pomocą REST API, • jest systemem rozproszonym i bardzo dobrze skaluje się horyzontalnie – możemy dokładać kolejne node’y, zaś Elasticsearch zajmie się resztą (np. odpowiednim rozszerzeniem klastra i podziałem danych pomiędzy serwery) i przyspieszy działanie.
 
-## Icinga 
+### Icinga 
 Icinga to narzędzie aktywnie monitorujące podzespoły danego systemu. W klasycznym podejściu, gdzie aplikacje, bazy i inne komponenty aplikacji webowej są umieszczone na serwerach, mogą być one monitorowane przez
 agenta NRPE. Serwer Icinga przesyła do nich zapytania o konkretne czujki i metryki sprawdzające np. obciążenie procesora, ilość dostępnej pamięci dyskowej, długość kolejek, czas ładowania strony czy ilość zapytań do bazy danych. W zależności od ustawień Icingi, możemy zdefiniować zadania jakie mają zostać wykonane w przypadku wystąpienia sytuacji krytycznej: od powiadomienia odpowiednich osób po wykonanie automatycznej akcji.
 
-## Grafana 
+### Grafana 
 Grafana to narzędzie bardziej rozbudowane graficznie, jednak gorsze pod kątem powiadomień niż Icinga. Narzędzie to pozwala na wizualizacje danych w postaci wykresów, wskaźników, diagramów obrazujących kluczowe metryki działania aplikacji. Źródłem danych do Grafany może być baza danych ElasticSearch, InfluxDB, SQL czy AWS CloudWatch. Dobrze skonstruowany dashboard pozwala określić obecny oraz historyczny stan całego środowiska. Wykresy mogą być uzupełniane odpowiednimi adnotacjami, takimi jak uruchomienie nowszej wersji aplikacji, co pozwala na łatwe odnajdywanie zależności pomiędzy wydajnością środowiska, a wersją aplikacji. Grafana nadaje się również do tworzenia wizualizacji metryk sprawdzanych rutynowo, pozwalając sprawnemu administratorowi na przewidzenie awarii – np. kończącej się pamięci czy przestrzeni dyskowej – przed ich wystąpieniem. Grafana, umożliwia także definiowanie prostych reguły powiadomień, choć znacznie bardziej ubogich niż Icinga.
 
-## Kibana 
+### Kibana 
 Kibana jest narzędziem służącym do eksploracji zbiorów danych, które umożliwia agregację logów z różnych źródeł. Poza funkcjami takimi jak przeglądanie i sprawne przeszukiwanie logów, pozwala tworzyć widoki z wykresami, a także posiada moduł timelion, pozwalający na analizę trendów czy analizę danych w czasie. Poza tworzeniem wykresów i składaniem z nich dashboardów, można skonstruować zapytanie timelion, które będzie wyszukiwało anomalie między danymi, na przykład tydzień do tygodnia. Bazą danych dla Kibany jest zazwyczaj indeks ElasticSearch, który może być użyty również przez wspomnianą wcześniej Grafanę. Oba te narzędzia dają w połączeniu świetny zestaw do przeglądania i wizualizacji zbieranych metryk.
 
-## Prometheus
+### Prometheus
 Prometeus jest bardzo dobrym narzędziem dedykowanym nowoczesnym środowiskom: automatycznie skalowanych, dynamicznych, konteneryzowanych, o niedeterministycznym czasie życia komponentów. W relatywnie prosty sposób, można dokonać integracji z katalogiem usług wystawionych przez service discovery (np. consul, eureka). Za pomocą Prometheusa umożliwione jest także zbieranie danych, używając protokołu http(s) z wykorzystaniem rozmaitych exporterów. Prometheus integruje się z Grafaną, posługując się nią jako silnikiem do wizualizacji danych oraz z alert managerem, jako modułem do agregacji alarmów i wysyłania powiadomień.
 
-## Graylog
+### Graylog
 Graylog to opensourcowy projekt, który jest rozwijany od 2009 roku. Jego twórcy od samego początku chcieli stworzyć system do analizy logów pochodzących z przeróżnych źródeł: systemów operacyjnych, serwerów aplikacji, firewalli sprzętowych i programowych. Dzięki temu Graylog znajduje zastosowanie zarówno podczas monitoringu stron internetowych, aplikacji webowych i wielu obszarów infrastruktury informatycznej. Jego użytkownikami mogą być nie tylko pracownicy zespołów IT, ale również działy sprzedaży i marketingu, zainteresowane m.in. wizualizacją trendów. Graylog przetwarza logi pochodzące z wielu różnych źródeł. Podstawowym warunkiem jest jednak zgodność plików dzienników zdarzeń z powszechnie stosowanym standardem opisanym w dokumentach RFC 5424 i 3164, które definiują m.in. takie reguły jak sposób zapisu daty i nazwy hosta źródłowego. Obsługiwane są logi pochodzące z serwerów Linux/Unix, wysyłane za pomocą protokołów TCP i UDP przez serwisy syslog oraz syslog-ng. Konfiguracja tych klientów nie odbiega zbytnio od standardowej, definiującej przesyłanie logów do centralnego serwera stworzonego za pomocą wspomnianych serwisów.
 
 ![Monitoring](https://github.com/Jarxinho/Rebecka-Voice-Bot/blob/develop/images/compare.PNG)
