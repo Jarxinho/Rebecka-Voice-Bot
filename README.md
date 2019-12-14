@@ -92,11 +92,11 @@ Suma kosztów: 30 pkt
     
    - [Analiza rynku, jakie są dostępne API ChatBot/VoiceBot, porównanie ( 2 dni) JS](https://github.com/Jarxinho/Rebecka-Voice-Bot/blob/develop/docs/shor_term/Bots_Comparison.xlsx)
     
-   - Analiza planu B ( 2 dni) #9.pkt w głownym - konieczny punkt JS
+   - Analiza planu B ( 2 dni) . JS
     
-   - Analizai porównanie dostępnych rozwiązań monitoringu aplikacji ( 5 dni) #10. pkt w głownym harmo. KP
+   - Analiza porównanie dostępnych rozwiązań monitoringu aplikacji ( 5 dni). KP
     
-   - Wybór Metodologii 7# pkt w głownym harmo (2dzni) MS
+   - Wybór Metodologii (2dni) MS
     
    - [Analiza ryzyka, uporządkowanie repozytorium (3 dni ) MS](https://github.com/Jarxinho/Rebecka-Voice-Bot/blob/develop/AnalizaRyzyka.md)
     
