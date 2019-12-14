@@ -1,6 +1,6 @@
 ## ANALIZA RYZYKA
 
-1. Identyfikacja ryzyka
+#### 1. Identyfikacja ryzyka
 
 Określenie jakie ryzyka mogą wpływać na projekt oraz dokumentowanie ich charakteru
 
@@ -28,7 +28,7 @@ Ryzyko może dotyczyć
 
 - satysfakcji klienta
 
-2. Technika zbierania informacji.
+#### 2. Technika zbierania informacji.
 
 W wyniku zespołowej burzy mózgów powstała poniższa lista ryzyk.
 
@@ -50,9 +50,10 @@ Lista ryzyk:
 
   8. Trudna integracja bazy danych z dialogflow
 
-  9. Nie spełnienie wszystkich wymagań klienta
+  9. Nie spełnienie wszystkich wymagań klienta.
+  
 
-3. Jakościowa analiza ryzyka 
+  #### 3. Jakościowa analiza ryzyka 
 
 Subiektywna analiza prawdopodobieństwa i skutku w kategoriach intuicyjnych typu mały-duży
 
