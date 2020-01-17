@@ -111,17 +111,17 @@ Suma kosztów: 30 pkt
     
    - [Analiza rynku, jakie są dostępne API ChatBot/VoiceBot, porównanie ( 2 dni) JS](https://github.com/Jarxinho/Rebecka-Voice-Bot/blob/develop/docs/shor_term/Bots_Comparison.xlsx)
     
-   - Analiza planu B ( 2 dni) . JS
+   - Analiza planu B ( 2 dni) . JS [ 8. główny harmonogram]
     
    - Analiza porównanie dostępnych rozwiązań monitoringu aplikacji ( 5 dni). KP
     
-   - Wybór Metodologii (2dni) MS
+   - Wybór Metodologii (2dni) MS [ 6. główny harmonogram]
     
    - [Analiza ryzyka, uporządkowanie repozytorium (3 dni ) MS](https://github.com/Jarxinho/Rebecka-Voice-Bot/blob/develop/AnalizaRyzyka.md)
     
    - [Diagram przypadków użycia (3 dni) DW](https://github.com/Jarxinho/Rebecka-Voice-Bot/blob/develop/Diagram%20przypadkow%20uzycia.pdf)
     
-   - Wybór najlepszego rozwiązania monitoringu, obszar testów (3 dni) KP
+   - Wybór najlepszego rozwiązania monitoringu, obszar testów (3 dni) KP [ 9. główny harmonogram]
     
    - Połączenie DialogFlow z MySQL na podstawie innej prostej aplikacji (3dni) JP
    
