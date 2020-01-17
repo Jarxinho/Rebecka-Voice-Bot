@@ -20,7 +20,7 @@ Zastąpienie rutynowej czynności wykonywanej przez człowieka VoiceBotem „Reb
 
 ## 4.	Wsteczna lista kroków koniecznych do realizacji projektu. 
 
-Dane zamówienia, klienta zapisują się w bazie danych, stworzenie bazy, geolokalizacja kuriera z zamówieniem, oszacowanie czasu oczekiwania na zamówienia na podstawie capacity, dnia tygodnia, ułożenie dialogów, nagranie odpowiedzi, integracja z API Twilio/Watson.
+Dane zamówienia oraz klienta zapisują się w bazie danych, stworzenie bazy, geolokalizacja kuriera z zamówieniem, oszacowanie czasu oczekiwania na zamówienie na podstawie capacity restauracji, dnia tygodnia, ułożenie dialogów, nagranie odpowiedzi, integracja z API DialogFlow, Voximplant.
 Poproszenie o wystawienie opinii jakości usług Rebeki, określenie czasu oczekiwania na zamówienie, przekazanie danych zamówienia do realizacji, poproszenie o kod rabatowy, zatwierdzenie zamówienia, określenie miejsca dostawy, wybranie dodatków, wybranie produktów, odebranie połączenie od klienta, rozpoczęcie mechanizmu nagrywania rozmów, uruchomienie linii telefonicznej.
 
 ## 5.	Analiza
