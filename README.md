@@ -29,9 +29,10 @@ Celem projektu jest stworzenie asystenta głosowego, który będzie potrafił pr
 Przyjęcie zamówienia, Zgłoszenie reklamacji, Lokalizacja zamówienia
 
 
-
 ![Analysis1](https://imagizer.imageshack.com/img924/1167/LtpT26.png)
 Rys. 1.0. Struktura podziału pracy WBS (ang. Work Breakdown Structure) dla projektu Asystent głosowy (uszczegółowiono tylko fazę implementacji)
+
+
 
 W tabeli przedstawiono 14 czynników, które szacuje projektant w skali od 1 do 5 jako współczynniki mające istotne znaczenie dla złożoności, wielkości i problemów napotykanych przy budowie oprogramowania.
 
