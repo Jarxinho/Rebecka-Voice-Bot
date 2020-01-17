@@ -174,7 +174,7 @@ Prometeus jest bardzo dobrym narzędziem dedykowanym nowoczesnym środowiskom: a
 
 ### Graylog
 Graylog to opensourcowy projekt, który jest rozwijany od 2009 roku. Jego twórcy od samego początku chcieli stworzyć system do analizy logów pochodzących z przeróżnych źródeł: systemów operacyjnych, serwerów aplikacji, firewalli sprzętowych i programowych. Dzięki temu Graylog znajduje zastosowanie zarówno podczas monitoringu stron internetowych, aplikacji webowych i wielu obszarów infrastruktury informatycznej. Jego użytkownikami mogą być nie tylko pracownicy zespołów IT, ale również działy sprzedaży i marketingu, zainteresowane m.in. wizualizacją trendów. Graylog przetwarza logi pochodzące z wielu różnych źródeł. Podstawowym warunkiem jest jednak zgodność plików dzienników zdarzeń z powszechnie stosowanym standardem opisanym w dokumentach RFC 5424 i 3164, które definiują m.in. takie reguły jak sposób zapisu daty i nazwy hosta źródłowego. Obsługiwane są logi pochodzące z serwerów Linux/Unix, wysyłane za pomocą protokołów TCP i UDP przez serwisy syslog oraz syslog-ng. Konfiguracja tych klientów nie odbiega zbytnio od standardowej, definiującej przesyłanie logów do centralnego serwera stworzonego za pomocą wspomnianych serwisów.
-
+![Monitoring](https://github.com/Jarxinho/Rebecka-Voice-Bot/blob/develop/images/compare.PNG)
 ### Podsumowanie - wybór narzędzia do monitoringu
 Analizując powyższe informacje oraz biorąc pod uwagę specyfikę naszego
 projektu wybór pada na ElasticSearch w połączeniu z Kibaną i Logstash.
@@ -228,4 +228,4 @@ elementów w aplikacji webowej i korzystanie z narzędzi deweloperskich w przegl
 Dodatkowo Katalon Studio to narzędzie, które nie wymaga instalacji, oferuje integrację z
 JIRA i, Git’em, a także pozwala na zastosowanie CI, za pomocą integracji z Jenkins.
 
-![Monitoring](https://github.com/Jarxinho/Rebecka-Voice-Bot/blob/develop/images/compare.PNG)
+
