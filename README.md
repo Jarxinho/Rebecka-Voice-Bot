@@ -12,7 +12,7 @@ Dla restauracji które otrzymują dużo zamówień telefonicznych od swoich klie
 
 ## 2.	Cel = efekt projektu.
 
-Zastąpienie rutynowej czynności wykonywanej przez człowieka VoiceBotem „Rebeka”. Zmniejszenie liczby etatów. Usprawnienie procesu złożenia zamówienia.
+Zastąpienie rutynowej czynności wykonywanej przez człowieka VoiceBotem „Rebeka”. Usprawnienie i zautomatyzowanie procesu składania zamówienia. Oszczędność dla restauracji.
 
 ## 3.	Termin.
 
