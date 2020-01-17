@@ -174,4 +174,57 @@ Prometeus jest bardzo dobrym narzędziem dedykowanym nowoczesnym środowiskom: a
 ### Graylog
 Graylog to opensourcowy projekt, który jest rozwijany od 2009 roku. Jego twórcy od samego początku chcieli stworzyć system do analizy logów pochodzących z przeróżnych źródeł: systemów operacyjnych, serwerów aplikacji, firewalli sprzętowych i programowych. Dzięki temu Graylog znajduje zastosowanie zarówno podczas monitoringu stron internetowych, aplikacji webowych i wielu obszarów infrastruktury informatycznej. Jego użytkownikami mogą być nie tylko pracownicy zespołów IT, ale również działy sprzedaży i marketingu, zainteresowane m.in. wizualizacją trendów. Graylog przetwarza logi pochodzące z wielu różnych źródeł. Podstawowym warunkiem jest jednak zgodność plików dzienników zdarzeń z powszechnie stosowanym standardem opisanym w dokumentach RFC 5424 i 3164, które definiują m.in. takie reguły jak sposób zapisu daty i nazwy hosta źródłowego. Obsługiwane są logi pochodzące z serwerów Linux/Unix, wysyłane za pomocą protokołów TCP i UDP przez serwisy syslog oraz syslog-ng. Konfiguracja tych klientów nie odbiega zbytnio od standardowej, definiującej przesyłanie logów do centralnego serwera stworzonego za pomocą wspomnianych serwisów.
 
+### Podsumowanie - wybór narzędzia do monitoringu
+Analizując powyższe informacje oraz biorąc pod uwagę specyfikę naszego
+projektu wybór pada na ElasticSearch w połączeniu z Kibaną i Logstash.
+Taka kombinacja daje nam szerokie pole manewru w temacie monitoringu
+aplikacji. ElasticSearch jest bowiem niezależną bazą danych, w której
+przechowywane są dane zebrane przez Logstash, która we współpracy z
+Kibaną daje nam możliwość przeglądania oraz analizowania logów a także
+generowania wykresów. Możemy wykorzystać także plugin X-pack do
+ElasticSearch, który dodatkowo zabezpieczy zebrane przez nas dane oraz
+będzie wysyłał alerty w razie jakichkolwiek problemów. Dodatek ten jest
+płatny, po 30-dniowym okresie próbnym.
+
+### Testowanie
+
+Selenium IDE to potężne narzędzie służące do skutecznego i szybkiego przeprowadzania
+testów automatycznych naszych aplikacji webowych lub normalnych stron WWW. Tkwi w
+nim potężny potencjał, który pozwala nam na uzyskanie pewnej niezawodności w
+wykonywanych i powtarzanych czynnościach (bo przecież dobrze zaprogramowana
+maszyna nie popełnia błędów) oraz oszczędności czasu, który możemy efektownie
+spożytkować na inne zadania.
+Apache JMeter to otwarte oprogramowanie, napisane w Javie i dedykowane do
+wykonywania testów obciążeniowych, wydajnościowych oraz funkcjonalnych. Oryginalnie
+było projektowane i rozwijane przez Stefano Mazzocchi z Apache Software Foundation,
+który napisał go do testowania wydajności Apache JServ (projektu, który został zastąpiony
+przez Apache Tomcat). Następnie JMeter został przeprojektowany i wyposażony w GUI
+celem rozszerzenia jego zastosowań do testów funkcjonalnych. W listopadzie 2011 roku
+JMeter stał się projektem Apache najwyższego poziomu (ang. top level), co oznacza, że
+zyskał społeczność odpowiedzialną za jego rozwój (ang. Project Management Commitee)
+oraz dedykowany serwis.
+Apache JMeter jest używany do testowania wydajności statycznych oraz dynamicznych
+zasobów takich jak pliki, dynamiczne języki programowania serwisów internetowych, np.
+PHP, Java, ASP.NET, itp., obiekty Java, bazy danych i kwerendy, serwery FTP, itp. Z
+powodzeniem jest wykorzystywany do symulowania wzmożonego ruchu na serwerze,
+grupie serwerów, w sieci lub na „hartowanym” obiekcie. Służy również do analizowania
+całkowitej wydajności pod obciążeniem różnego typu, np. do graficznej analizy całkowitej
+wydajności lub do testowania zachowania się serwera / skryptu / obiektu przy wzmożonym i
+zrównoleglonym obciążeniu.
+Do zalet JMetera zaliczyć można:
+1. Automatyzację
+2. Wieloplatformowość
+3. Wielowątkowość
+4. Uniwersalność
+5. Wysokopoziomowość
+6. Wsparcie, tj. dokumentacja i rozwój
+7. Możliwość modyfikacji
+8. Darmowość
+Katalon Studio to bezpłatne rozwiązanie do automatyzacji testów opracowane przez
+Katalon LLC. Plusem tego narzędzia jest to, że nie jest wymagana wiedza programistyczna i
+jedyne co trzeba umieć przed rozpoczęciem korzystania z programu, to lokalizowanie
+elementów w aplikacji webowej i korzystanie z narzędzi deweloperskich w przeglądarce.
+Dodatkowo Katalon Studio to narzędzie, które nie wymaga instalacji, oferuje integrację z
+JIRA i, Git’em, a także pozwala na zastosowanie CI, za pomocą integracji z Jenkins.
+
 ![Monitoring](https://github.com/Jarxinho/Rebecka-Voice-Bot/blob/develop/images/compare.PNG)
