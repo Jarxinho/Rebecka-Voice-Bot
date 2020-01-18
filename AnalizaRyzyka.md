@@ -38,19 +38,15 @@ Lista ryzyk:
 
   2. Złe rozdzielenie zadań w grupie
 
-  3. Praca inżynierska
+  3. Krotki deadline
 
-  4. Krotki deadline
+  4. W przypadku języka polskiego jest mocno ograniczone grono dostawców infrastruktury SIP, która integruje się z dialogflow
 
-  5. W przypadku języka polskiego jest mocno ograniczone grono dostawców infrastruktury SIP, która integruje się z dialogflow
+  5. Negocjacje biznesowe z monopolistami, którzy mogą krzyknąć zaporową stawkę
 
-  6. Negocjacje biznesowe z monopolistami, którzy mogą krzyknąć zaporową stawkę
+  6. Trudna integracja bazy danych z dialogflow
 
-  7. Brak możliwości zastosowania load balancera.
-
-  8. Trudna integracja bazy danych z dialogflow
-
-  9. Nie spełnienie wszystkich wymagań klienta.
+  7. Innowacyjność.
   
 
   #### 3. Jakościowa analiza ryzyka 
@@ -65,20 +61,6 @@ Wyniki:  - lista ryzyk uszeregowana wg priorytetów  - lista ryzyk wymagających
  ![Alternatives](https://github.com/Jarxinho/Rebecka-Voice-Bot/blob/develop/images/macierz2.JPG)
 
 
- Zapobieganie 
- 
- 1. wygospodarowanie czasu na:
-zbadanie zachowania się aplikacji w różnych środowiskach (testy),
-usuwanie błędów
- 
- 2. rozmowy z klientem przed opisaniem konkretnych funkcjonalności
-eliminacja wszystkich niezrozumiałych dla wykonawcy fragmentów specyfikacji
-
- 3. zatrudnienie handlowca w celu negocjacji biznesowych z monopolistami
- 
- 4. uzgodnienie z klientem ograniczeń językowych mogących wystąpić przy tworzeniu aplikacji
- 
- 5. planowanie krótkoterminowe , scram , udoskonalanie projektu
  
  
  
